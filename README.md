@@ -7,7 +7,7 @@ This GitHub page contains:
 - Code related to Matkalkyl. For more info, visit [matkalkyl.dev](https://matkalkyl.dev).
 - My other projects.
 
-For submissions, please read [this guide](https://matkalkyl.dev?a=subm).
+For submissions, please read [this guide](https://matkalkyl.dev/page.php?a=subm).
 
 ### På svenska:
 
