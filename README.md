@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**mtkld/mtkld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### In English:
 
-Here are some ideas to get you started:
+This GitHub page contains:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Code related to Matkalkyl. For more info, visit [matkalkyl.dev](https://matkalkyl.dev).
+- My other projects.
+
+For submissions, please read [this guide](https://matkalkyl.dev?a=subm).
+
+### På svenska:
+
+Denna GitHub-sida innehåller:
+
+- Kod relaterad till Matkalkyl. För mer information, besök [matkalkyl.dev](https://matkalkyl.dev).
+- Mina andra projekt.
